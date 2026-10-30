@@ -1,6 +1,7 @@
 ### Hi, I'm Johnny 👋
 - 📊 I am a Epidemiologist for the [Commonwealth Health Care Corporation](https://www.chcc.health/) & a PhD student at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/publichealth/)
 - 🌱 I have a Master of Public Health degree from Eastern Washington University
+- 🌾 I am an aspiring farmer
 - 📫 I live in Honolulu, Hawaii
 - 💬 Reach me at jtaldan@hawaii.edu
 
