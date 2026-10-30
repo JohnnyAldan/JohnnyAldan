@@ -1,1 +1,25 @@
-# JohnnyAldan
+### Hi, I'm Johnny 👋
+- 📊 I am a Epidemiologist for the [Commonwealth Health Care Corporation](https://www.chcc.health/) & a PhD student at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/publichealth/)
+- 🌱 I have a Master of Public Health degree from Eastern Washington University
+- 📫 I live in Honolulu, Hawaii
+- 💬 Reach me at jtaldan@hawaii.edu
+
+<img align="left" alt="rstudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+<img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+<!--
+
+**jaldan20/JohnnyAldan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
